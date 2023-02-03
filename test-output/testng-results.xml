@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Chrome browser opened]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[Google site is launched]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a href="E:\batch262\org.magnitia.testpractice\target\18-007-2022-02-07-28.ping"><img src="E:\batch262\org.magnitia.testpractice\target\18-007-2022-02-07-28.ping" height="100" width="100"/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16370" started-at="2022-11-18T14:07:12 IST" finished-at="2022-11-18T14:07:28 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16370" started-at="2022-11-18T14:07:12 IST" finished-at="2022-11-18T14:07:28 IST">
+      <class name="practiseTestng.TestDummy21">
+        <test-method status="PASS" signature="method1()[pri:0, instance:practiseTestng.TestDummy21@3d0f8e03]" name="method1" duration-ms="16314" started-at="2022-11-18T14:07:12 IST" finished-at="2022-11-18T14:07:28 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Chrome browser opened]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[Google site is launched]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a href="E:\batch262\org.magnitia.testpractice\target\18-007-2022-02-07-28.ping"><img src="E:\batch262\org.magnitia.testpractice\target\18-007-2022-02-07-28.ping" height="100" width="100"/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- practiseTestng.TestDummy21 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
